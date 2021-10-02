@@ -35,7 +35,6 @@ h1 {
 h1 i {
   display: flex;
   justify-content: center;
-
 }
 
 h1 span {
@@ -110,7 +109,7 @@ article a {
   border-radius: .3rem;
   margin-bottom: 1.5rem;
   text-decoration: none;
-  outline: .2rem solid rgba(55,131,163,.3);
+  outline: .2rem solid rgba(55, 131, 163, .3);
   color: #3783a3;
   padding: .5em 1rem .6rem;
 }
