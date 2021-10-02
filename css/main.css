@@ -29,7 +29,7 @@ img {
 h1 {
   display: flex;
   flex-direction: column;
-  margin-bottom: 0;
+  margin: 0;
 }
 
 h1 i {
@@ -80,9 +80,9 @@ main {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-areas:
-  "banner banner banner"
-  "text text text"
-  "col1 col2 col3";
+    "banner banner banner"
+    "text text text"
+    "col1 col2 col3";
   gap: 1rem;
 }
 
