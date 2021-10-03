@@ -107,6 +107,7 @@ h2 {
   display: grid;
   font-size: 1.5rem;
   margin-bottom: 0;
+  padding-bottom: .5rem;
 }
 
 article span {
@@ -126,6 +127,6 @@ article a {
 footer {
   margin: 0;
   text-align: center;
-  font-size: 1rem;
+  font-size: 1.125rem;
   padding-top: 1rem;
 }
