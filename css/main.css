@@ -100,7 +100,7 @@ section {
   grid-area: col1;
   grid-column: 1 / span 4;
   margin: 0;
-  padding: .5rem, 0;
+  padding: .5rem 0;
 }
 
 h2 {
