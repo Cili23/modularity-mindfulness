@@ -147,19 +147,24 @@ article {
 }
 
 header {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-areas:
-  "Top Top"
-  "Bottom Bottom";
-}
-
-nav {
-  margin: 1rem;
+  display: flex;
+  justify-content: space-between;
 }
 
 h1 {
-  align-content:
+margin-bottom: 1rem
+}
+
+h1 i {
+  justify-content: left;
+}
+
+nav {
+  display: flex;
+}
+
+ul {
+  justify-content: center;
 }
 
 }
