@@ -116,7 +116,7 @@ article span {
 article a {
   display: flex;
   border-radius: .3rem;
-  margin-bottom: 1.5rem;
+  margin: 1.5rem 0;
   text-decoration: none;
   outline: .2rem solid rgba(55, 131, 163, .3);
   color: #3783a3;
