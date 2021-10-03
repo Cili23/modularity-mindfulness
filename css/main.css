@@ -130,3 +130,36 @@ footer {
   font-size: 1.125rem;
   padding-top: 1rem;
 }
+
+@media only screen and (min-width: 37em) {
+
+section {
+display: flex;
+grid-gap: 1rem;
+margin: 0 1rem 0 0;
+padding: 0;
+}
+
+article {
+  margin: 0;
+  padding: 0;
+  width: 100%
+}
+
+header {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas:
+  "Top Top"
+  "Bottom Bottom";
+}
+
+nav {
+  margin: 1rem;
+}
+
+h1 {
+  align-content:
+}
+
+}
