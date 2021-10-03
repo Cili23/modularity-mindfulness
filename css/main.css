@@ -71,12 +71,12 @@ div {
 div i {
   font-size: 2rem;
   margin: 1.125rem;
-  padding: 0
+  padding: 0;
 }
 
 div p {
   margin: 0;
-  padding: 0
+  padding: 0 0 1rem 0;
 }
 
 main {
