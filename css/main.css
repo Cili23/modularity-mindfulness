@@ -135,7 +135,7 @@ footer {
 
 section {
 display: flex;
-grid-gap: 1rem;
+grid-gap: 2rem;
 margin: 0 1rem 0 0;
 padding: 0;
 }
