@@ -99,6 +99,8 @@ main img {
 section {
   grid-area: col1;
   grid-column: 1 / span 4;
+  margin: 0;
+  padding: .5rem, 0;
 }
 
 h2 {
@@ -125,9 +127,4 @@ footer {
   text-align: center;
   font-size: 1rem;
   padding-top: 1rem;
-}
-
-section {
-  margin: 0;
-  padding: 1rem 0;
 }
