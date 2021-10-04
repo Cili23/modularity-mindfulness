@@ -75,7 +75,7 @@ div i {
 }
 
 .intro i {
-  margin: 0 0 1rem 0;
+  margin: 0 0 1rem;
   padding: 0 1rem;
 }
 
@@ -176,7 +176,7 @@ footer {
   }
 
   .intro {
-    margin: 0 2rem;
+    margin: 0 2rem 1rem;
   }
 
 }
