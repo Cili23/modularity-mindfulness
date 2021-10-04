@@ -74,11 +74,11 @@ div i {
   padding: 0;
 }
 
-main i {
+.intro i {
   margin: 0 0 1rem 0;
 }
 
-main p {
+.intro p {
   padding: 0 1rem;
   margin: 0 0 1rem;
 }
