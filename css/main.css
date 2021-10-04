@@ -86,7 +86,7 @@ main {
   "banner banner banner"
   "text text text"
   "col1 col2 col3";
-  gap: 1rem;
+  grid-row-gap: 1rem;
   align-items: center;
   border-bottom: .2rem solid #e2e2e2;
 }
