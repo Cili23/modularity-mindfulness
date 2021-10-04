@@ -57,9 +57,9 @@ li a {
   color: #3783a3;
 }
 
-div {
+.intro {
   margin: 0;
-  padding: 0;
+  padding: 1rem 0;
   border-top: .2rem solid #e2e2e2;
   border-bottom: .2rem solid #e2e2e2;
   display: flex;
@@ -72,6 +72,15 @@ div i {
   font-size: 2rem;
   margin: 1rem;
   padding: 0;
+}
+
+main i {
+  margin: 0 0 1rem 0;
+}
+
+main p {
+  padding: 0 1rem;
+  margin: 0 0 1rem;
 }
 
 div p {
@@ -127,7 +136,7 @@ article a {
 footer {
   margin: 0;
   text-align: center;
-  font-size: .5rem;
+  font-size: .75rem;
   padding-top: 1rem;
 }
 
