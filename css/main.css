@@ -133,38 +133,38 @@ footer {
 
 @media only screen and (min-width: 37em) {
 
-section {
-display: flex;
-grid-gap: 2rem;
-margin: 0 1rem 0 0;
-padding: 0;
-}
+  section {
+    display: flex;
+    grid-gap: 1rem;
+    margin: 0 1rem 0 0;
+    padding: 0;
+  }
 
-article {
-  margin: 0;
-  padding: 0;
-  width: 100%
-}
+  article {
+    margin: 0;
+    padding: 0;
+    width: 100%
+  }
 
-header {
-  display: flex;
-  justify-content: space-between;
-}
+  header {
+    display: flex;
+    justify-content: space-between;
+  }
 
-h1 {
-margin-bottom: 1rem
-}
+  h1 {
+    margin-bottom: 1rem
+  }
 
-h1 i {
-  justify-content: left;
-}
+  h1 i {
+    justify-content: left;
+  }
 
-nav {
-  display: flex;
-}
+  nav {
+    display: flex;
+  }
 
-ul {
-  justify-content: center;
-}
+  ul {
+    justify-content: center;
+  }
 
 }
