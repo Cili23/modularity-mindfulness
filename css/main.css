@@ -148,6 +148,7 @@ footer {
 
   header {
     display: flex;
+    align-items: center;
     justify-content: space-between;
   }
 
@@ -159,12 +160,8 @@ footer {
     justify-content: left;
   }
 
-  nav {
-    display: flex;
-  }
-
-  ul {
-    justify-content: center;
+  li {
+    padding: 0 1rem;
   }
 
 }
