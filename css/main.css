@@ -154,7 +154,7 @@ footer {
   article {
     margin: 0;
     padding: 0;
-    width: 100%
+    width: 100%;
   }
 
   header {
@@ -164,7 +164,7 @@ footer {
   }
 
   h1 {
-    margin-bottom: 1rem
+    margin-bottom: 1rem;
   }
 
   h1 i {
@@ -185,6 +185,6 @@ footer {
 
   .intro {
     margin: 0 15rem 1rem;
-}
-
   }
+
+}
